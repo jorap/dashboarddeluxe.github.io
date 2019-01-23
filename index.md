@@ -6,8 +6,8 @@ title: Dashboard Deluxe
 - [Google](http://google.com) \| [Gmail](http://gmail.com) \| [News](http://news.google.com/?hl=en-PH&gl=PH&ceid=PH:en) \|  [Keep](http://keep.google.com/) \| [Calendar](http://calendar.google.com) \| [Drive](http://drive.google.com) \| [Photos](http://photos.google.com) \| [Youtube](http://youtube.com)
 - [Yahoo](http://mail.yahoo.com) \|  [Mail](http://mail.yahoo.com) \| [Weather](http://yahoo.com/news/weather/philippines/pasig/pasig-1187115)
 - [Samsung Seller Office](http://seller.samsungapps.com) \| [Sales Summary](http://seller.samsungapps.com/accounting/accountingList.as) \| [Buyer Comments](http://seller.samsungapps.com/comment/getCommentList.as) \| [Coupons](http://seller.samsungapps.com/product/promotion/promotioncoupon.as)
-- [Github](http://github.com) \| [Dashboard Deluxe Home](http://github.com/dashboarddeluxe/home)
-- [Prose](http://prose.io) \| [Edit Dashboard Deluxe](http://prose.io/#dashboarddeluxe/home/edit/master/README.md)
+- [Github](http://github.com) \| [Dashboard Deluxe](http://github.com/dashboarddeluxe/) \| [Dashboard Deluxe Site](http://github.com/dashboarddeluxe/dashboarddeluxe.github.io)
+- [Prose](http://prose.io) \| [Edit Dashboard Deluxe](http://prose.io/#dashboarddeluxe/dashboarddeluxe.github.io/edit/master/index.md)
 - [Netlify](http://app.netlify.com/) \| [Dashboard Deluxe](http://dashboarddeluxe.netlify.com) \| [Netlify CMS Admin](http://dashboarddeluxe.netlify.com/admin)
 
 ## Sports
