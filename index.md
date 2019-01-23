@@ -1,97 +1,115 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Dashboard Deluxe
 ---
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+- [Google](http://google.com) \| [Gmail](http://gmail.com) \| [News](http://news.google.com/?hl=en-PH&gl=PH&ceid=PH:en) \|  [Keep](http://keep.google.com/) \| [Calendar](http://calendar.google.com) \| [Drive](http://drive.google.com) \| [Photos](http://photos.google.com) \| [Youtube](http://youtube.com)
+- [Yahoo](http://mail.yahoo.com) \|  [Mail](http://mail.yahoo.com) \| [Weather](http://yahoo.com/news/weather/philippines/pasig/pasig-1187115)
+- [Samsung Seller Office](http://seller.samsungapps.com) \| [Sales Summary](http://seller.samsungapps.com/accounting/accountingList.as) \| [Buyer Comments](http://seller.samsungapps.com/comment/getCommentList.as) \| [Coupons](http://seller.samsungapps.com/product/promotion/promotioncoupon.as)
+- [Github](http://github.com) \| [Dashboard Deluxe Home](http://github.com/dashboarddeluxe/home)
+- [Prose](http://prose.io) \| [Edit Dashboard Deluxe](http://prose.io/#dashboarddeluxe/home/edit/master/README.md)
+- [Netlify](http://app.netlify.com/) \| [Dashboard Deluxe](http://dashboarddeluxe.netlify.com) \| [Netlify CMS Admin](http://dashboarddeluxe.netlify.com/admin)
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+## Sports
+- [ESPN NBA](http://espn.com/nba) \| [Standings](http://www.espn.com/nba/standings) \| [Spurs](http://www.espn.com/nba/team/_/name/sa/san-antonio-spurs)
+- [HoopsHype NBA Rumors](http://hoopshype.com/rumors) \| [Spurs](http://hoopshype.com/team/san-antonio-spurs/)
+- [Y! NBA Fantasy](http://sports.yahoo.com/dailyfantasy) \| [Upcoming](http://sports.yahoo.com/dailyfantasy/contests/upcoming) \| [Live](http://sports.yahoo.com/dailyfantasy/contests/live) \| [Create Contest](http://sports.yahoo.com/dailyfantasy/contest/create) \| [Live Score](http://sports.yahoo.com/dailyfantasy/research/live)
+- [Linestar Y! Fantasy NBA](http://www.linestarapp.com/DailyDashboard/Sport/NBA/Site/Yahoo) \| [Live Score](http://www.linestarapp.com/LiveScoring/Sport/NBA/Site/Yahoo) \| [Perfect Lineup](http://www.linestarapp.com/Perfect/Sport/NBA/Site/Yahoo)
+- [DailyFantasyNerd Optimizer](http://dailyfantasynerd.com/optimizer/yahoo/nba)
+- [LineupHQ](https://rotogrinders.com/lineuphq/nba?site=yahoo)
+- [Pounding the Rock](http://www.poundingtherock.com/)
+- [538 Sports](http://fivethirtyeight.com/sports/) \| [NBA](http://fivethirtyeight.com/tag/nba/)
+- [ABC Sport](http://abc.net.au/news/sport/)
+- [Cricinfo](http://espncricinfo.com/?edition-view=espncricinfo-en-au&set=true)
 
-## Setup Guide
+## Board Games
+- [BoardGameGeek](http://boardgamegeek.com) \| [Subscriptions](http://boardgamegeek.com/subscriptions)
+- [PNP Board Games](http://www.boardgamer.ru/forum/index.php?action=unread)
+- [Tabletop Simulator Workshop](http://steamcommunity.com/app/286160/workshop/)
+- [Steam Workshop Download](http://steamworkshop.download)
+- [Dice Tower Latest Review Videos](http://dicetower.com/board-game-videos?field_category_tid=5)
+- [Dice Tower News](http://dicetowernews.com)
+- [iSlaytheDragon Reviews](http://islaythedragon.com/category/game-reviews/)
+- [Geeks Under Grace](http://www.geeksundergrace.com/tabletop/)
+- [Meeple Like Us Master List](http://meeplelikeus.co.uk/meeple-like-us-masterlist/)
+- [Tray Template](http://templatemaker.nl/index.php?template=matchbox&source=dielines&lang=en)
+- [Board vs Game](http://boardvsgame.com)
+- [GamingLib](http://www.gaminglib.com/collections/all?sort_by=created-descending)
+- [The Esoteric Order of Gamers](http://www.orderofgamers.com/games/)
 
-### Fork this repository
+## Design
+- [FaceRepo Watchmaker](http://facerepo.com/app/search/results?sortOrder=downloaded-most&faceApp=watchmaker&page=1)
+- [Trianglify.io](http://trianglify.io/)
+- [Trianglify Background Generator](http://alssndro.github.io/trianglify-background-generator/)
+- [Geopattern](http://btmills.github.io/geopattern/geopattern.html)
+- [Patterncooler](http://patterncooler.com/)
+- [Striped Backgrounds](http://stripedbgs.com/)
+- [Material Design Background Generator](http://stringsistemas.com/materialgenerator.html)
+- [Flaticon Patterns](http://pattern.flaticon.com/)
+- [TinEye Color Extraction](http://labs.tineye.com/color/)
+- [Unsplash](http://unsplash.com/)
+- [The Pattern Library](http://thepatternlibrary.com/)
+- [Subtle Patterns](http://www.toptal.com/designers/subtlepatterns/)
+- [Transparent Textures](http://www.transparenttextures.com/)
+- [Pixabay](http://pixabay.com/)
 
-[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Fork` button on the top right of the page.
+## Development
+- [Drupal Planet](http://drupal.org/planet)
+- [Latest Drupal 8 Module Updates](http://drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=drupal_core%3A7234&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search)
+- [Latest Drupal 8 Theme Updates](http://drupal.org/project/project_theme?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=drupal_core%3A7234&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search)
+- [Drupal Modules: The 1%](http://gogrow.org/tutorials)
+- [Wordpress Planet](http://planet.wordpress.org)
+- [Programming Notes for Professionals](http://goalkicker.com/)
+- [Backdrop CMS](http://backdropcms.org) \| [Roadmap](http://backdropcms.org/roadmap)
+- [Grav](http://getgrav.org/)
+- [PHP Download](http://php-download.com/)
+- [Drupal 7 - wat-a-wat.com](http://d7.wat-a-wat.com/user_account/login)
+- [Drupal 8 - wat-a-wat.com](http://d8.wat-a-wat.com/user_account/login)
+- [GRAV - wat-a-wat.com](http://grav.wat-a-wat.com/admin)
+- [Pantheon Dashboard](http://dashboard.pantheon.io)
+- [Drupal 8 - Pantheon](http://dev-drpl-8.pantheonsite.io)
+- [Wordpress 5 - Pantheon](http://dev-wp4.pantheonsite.io/wp-admin/)
 
-### Rename your forked repository
+## Weather / Seismology
 
-Here we have two possibilities:
+- [Accuweather](http://www.accuweather.com/en/ph/pasig/264876/air-travel-hourly-forecast/264876)
+- [Weather.com](http://weather.com/weather/hourbyhour/l/RPXX0026:1:RP)
+- [Weatherbug](http://weatherbug.com/weather-forecast/hourly/pasig-city-national-capital-region-rp)
+- [USGS](http://earthquake.usgs.gov/earthquakes/map/#%7B%22feed%22%3A%2230day_sig%22%2C%22search%22%3Anull%2C%22listFormat%22%3A%22default%22%2C%22sort%22%3A%22newest%22%2C%22basemap%22%3A%22terrain%22%2C%22autoUpdate%22%3Atrue%2C%22restrictListToMap%22%3Afalse%2C%22timeZone%22%3A%22utc%22%2C%22mapposition%22%3A%5B%5B-78.49055166160312%2C74.8828125%5D%2C%5B78.42019327591201%2C325.1953125%5D%5D%2C%22overlays%22%3A%7B%22plates%22%3Atrue%7D%2C%22viewModes%22%3A%7B%22map%22%3Atrue%2C%22list%22%3Atrue%2C%22settings%22%3Afalse%2C%22help%22%3Afalse%7D%7D)
+- [PAGASA](http://bagong.pagasa.dost.gov.ph)
+- [PHIVOLCS](http://www.phivolcs.dost.gov.ph/index.php/earthquake/earthquake-information3)
 
-* **You want a user or organization website**
+## Forex
 
-  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
+- [ForexFactory Calendar](http://forexfactory.com/calendar.php)
+- [MyFXBook Dashboard](http://myfxbook.com/dashboard)
+- [Investing.com Economic Calendar](http://investing.com/economic-calendar/)
+- [SPFX Manual](http://nobodytrader.com/your-first-trading-account/)
+- [Telegram](http://web.telegram.org)
+- [AlphaPlay](http://www.alphaplay.com.sg/)
+- [PAFTI](http://pafti.org/)
+- [Daily Forex Signals](http://www.dailyforex.com/forex-technical-analysis/free-forex-signals/page-1)
 
-  Go in the `Settings` page of your repository and rename it to `<your username>.github.io`.
+## Books
 
-* **You want a project website**
+- [NY Times Best Sellers](http://nytimes.com/books/best-sellers/advice-how-to-and-miscellaneous/)
+- [Amazon Best Sellers](http://amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_unv_b_1_12290_1)
+- [Library Genesis](http://gen.lib.rus.ec/)
+- [WOW ebook](http://wowebook.org)
+- [ChristianDL](http://www.christiandl.com/unread/)
+- [Cheltenham Courseware](http://www.cheltenhamcourseware.com/)
 
-  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
+## Fonts
 
-  Go in the `Settings` page of your repository and rename it to `<whatever you want>`.
+- [Font Identifier](http://fontsquirrel.com/matcherator)
+- [Fontsquirrel](http://fontsquirrel.com)
+- [Dafont](http://dafont.com)
+- [Fontspace](http://fontspace.com)
+- [1001 Fonts](http://1001fonts.com)
+- [Weekly Fonts](http://www.weeklyfonts.com/)
 
-### Activate Github Pages on your repository
+## eCommerce
 
-Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
+- [Lazada](http://lazada.com.ph/)
+- [Shopee](http://shopee.ph/) \| [My Purchase](http://shopee.ph/user/purchase)
 
-### That's it
-
-Your Github Pages website with customizable Bootstrap 4 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
-
-## Customization Guide
-
-### Modify the configuration
-
-You should at least edit the `_config.yml` file to edit your website's metadata, like the title, description and repository URL.
-
-### Customize your theme
-
-Let's be honest, this theme uses a vanilla version of Bootstrap 4 and an unmodified Bootstrap is quite unpleasant to the eye. You want to change that.
-
-You can of course modify anything in the `_includes`, `_layouts` and `_sass` folders to customize both the HTML or CSS of your website, possibly referring to the [Bootstrap documentation](https://getbootstrap.com/) or the [Jekyll documentation](https://jekyllrb.com/) when needed. This is a normal part of web development and it is outside the scope of this guide.
-
-But if you don't know where to start I can recommend you to import a starting theme from [Bootswatch](https://bootswatch.com/).
-
-* Go on [Bootswatch](https://bootswatch.com/) and choose a theme that you like.
-* Using the top bar, download its `_variables.scss` and `_bootswatch.scss` files.
-* Copy the content of `_variables.scss` in `_sass/_variables.scss`.
-* Copy the content of `_bootswatch.scss` in `_sass/_bootstrap_customization.scss`.
-
-That's it, you now have a totally different appearance compared to a vanilla Bootstrap 4.
-
-### Modify the content
-
-You probably don't want the present guide to be the front page of your website, so you should edit the `index.md` file. You probably also want to edit or delete the `CONTRIBUTING.md`, `README.md` and `LICENSE.md` files.
-
-Aside from that you can of course create new pages and posts like with any Jekyll website by refering to the [Jekyll documentation](https://jekyllrb.com/).
-
-### Run Jekyll on your computer to speed up testing
-
-Editing your website's content or theme directly on Github is completely possible but, due to the time Github Pages takes to update your website, it will probably be much more effective to work using a local Jekyll installation.
-
-To do so:
-
-* Install the [requirements for Jekyll](https://jekyllrb.com/docs/installation/).
-* Type `bundle install` at the root of your project to install the necessary Ruby dependencies.
-* Type `bundle exec jekyll serve` to launch the test Jekyll web server that will re-compile your work if you edit it.
-* You can then open `http://localhost:4000` in your web browser to see your work-in-progress website.
-
-Please note that, to ensure maximum compatibility with Github Pages, the `Gemfile` of this project references the `github-pages` gem, not Jekyll directly. This implies some differences in behavior compared to the official documentation of Jekyll.
-
-## Known issues
-
-* Bootstrap 4 should normally be post-processed using [Autoprefixer](https://github.com/postcss/autoprefixer). Even if it is possible to use autoprefixer with Jekyll, it is not possible with a classic Github Pages installation without adding some kind of pre-processing before publication. Since this project mostly aims compatibility with Github Pages I prefer to keep it that way. The consequences of this choice is that some Bootstrap features could not work as expected on older browsers.
-
-## How to contribute
-
-[See the contribution guide](https://github.com/nicolas-van/bootstrap-4-github-pages/blob/master/CONTRIBUTING.md).
-
-## Websites using Bootstrap 4 Github Pages
-
-* [My personal blog](https://nicolas-van.github.io/)
-
-## Other projects
-
-[Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/) which documents how to publish Markown files to Github Pages in the fastest way.
