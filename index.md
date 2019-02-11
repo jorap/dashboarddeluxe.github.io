@@ -55,6 +55,8 @@ title: Dashboard Deluxe
 - [Pixabay](http://pixabay.com/)
 
 ## Development
+- [Laragon](http://www.laragon.org/)
+- [XAMPP](https://www.apachefriends.org/download.html)
 - [Drupal Planet](http://drupal.org/planet)
 - [Latest Drupal 8 Module Updates](http://drupal.org/project/project_module?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=drupal_core%3A7234&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search)
 - [Latest Drupal 8 Theme Updates](http://drupal.org/project/project_theme?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=drupal_core%3A7234&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search)
