@@ -9,6 +9,7 @@ title: Dashboard Deluxe
 - [Github](http://github.com) \| [Dashboard Deluxe](http://github.com/dashboarddeluxe/) \| [Dashboard Deluxe Site](http://github.com/dashboarddeluxe/dashboarddeluxe.github.io)
 - [Prose](http://prose.io) \| [Edit Dashboard Deluxe](http://prose.io/#dashboarddeluxe/dashboarddeluxe.github.io/edit/master/index.md)
 - [Netlify](http://app.netlify.com/) \| [Dashboard Deluxe](http://dashboarddeluxe.netlify.com) \| [Netlify CMS Admin](http://dashboarddeluxe.netlify.com/admin)
+- [CCleaner Standard](https://www.ccleaner.com/ccleaner/download/standard) \| [Glary Utilies Portable](download.glarysoft.com/guportable.zip)
 
 ## Sports
 - [ESPN](http://global.espn.com/?src=com) \| [NBA](http://espn.com/nba) \| [Standings](http://www.espn.com/nba/standings) \| [Spurs](http://www.espn.com/nba/team/_/name/sa/san-antonio-spurs)
