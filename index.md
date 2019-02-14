@@ -100,6 +100,7 @@ title: Dashboard Deluxe
 - [NY Times Best Sellers](http://nytimes.com/books/best-sellers/advice-how-to-and-miscellaneous/)
 - [Amazon Best Sellers](http://amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_unv_b_1_12290_1)
 - [Library Genesis](http://gen.lib.rus.ec/)
+- [Z Library](https://b-ok.org/)
 - [WOW ebook](http://wowebook.org)
 - [ChristianDL](http://www.christiandl.com/unread/)
 - [Cheltenham Courseware](http://www.cheltenhamcourseware.com/)
