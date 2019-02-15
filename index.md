@@ -55,6 +55,7 @@ title: Dashboard Deluxe
 - [Subtle Patterns](http://www.toptal.com/designers/subtlepatterns/)
 - [Transparent Textures](http://www.transparenttextures.com/)
 - [Pixabay](http://pixabay.com/)
+- [Generate Random Bitmap PNG](https://onlinepngtools.com/generate-random-png)
 
 ## Development
 - [Laragon](http://www.laragon.org/)
