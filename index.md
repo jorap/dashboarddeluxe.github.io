@@ -49,6 +49,7 @@ title: Dashboard Deluxe
 - [Material Design Background Generator](http://stringsistemas.com/materialgenerator.html)
 - [Flaticon Patterns](http://pattern.flaticon.com/)
 - [TinEye Color Extraction](http://labs.tineye.com/color/)
+- [PHP Color Extract](http://www.coolphptools.com/color_extract)
 - [Unsplash](http://unsplash.com/)
 - [The Pattern Library](http://thepatternlibrary.com/)
 - [Subtle Patterns](http://www.toptal.com/designers/subtlepatterns/)
