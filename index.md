@@ -8,7 +8,7 @@ title: Dashboard Deluxe
 - [Samsung Seller Office](http://seller.samsungapps.com) \| [Sales Summary](http://seller.samsungapps.com/accounting/accountingList.as) \| [Buyer Comments](http://seller.samsungapps.com/comment/getCommentList.as) \| [Coupons](http://seller.samsungapps.com/product/promotion/promotioncoupon.as)
 - [Github](http://github.com) \| [Dashboard Deluxe](http://github.com/dashboarddeluxe/) \| [Dashboard Deluxe Site](http://github.com/dashboarddeluxe/dashboarddeluxe.github.io)
 - [Prose](http://prose.io) \| [Edit Dashboard Deluxe](http://prose.io/#dashboarddeluxe/dashboarddeluxe.github.io/edit/master/index.md)
-- [Netlify](http://app.netlify.com/) \| [Dashboard Deluxe](http://dashboarddeluxe.netlify.com) \| [Netlify CMS Admin](http://dashboarddeluxe.netlify.com/admin)
+- [Netlify](http://app.netlify.com/) \| [Dashboard Deluxe](http://dashboarddeluxe.netlify.com)
 - [CCleaner Standard](https://www.ccleaner.com/ccleaner/download/standard) \| [Glary Utilies Portable](http://download.glarysoft.com/guportable.zip)
 - [WhatsApp](https://web.whatsapp.com/) \| [Telegram](https://web.telegram.org/)
 
