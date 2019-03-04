@@ -108,6 +108,8 @@ title: Dashboard Deluxe
 - [WOW ebook](http://wowebook.org)
 - [ChristianDL](http://www.christiandl.com/unread/)
 - [Cheltenham Courseware](http://www.cheltenhamcourseware.com/)
+- [MyBible](https://mybible.zone/index-eng.php) \| [Bible Downloads](https://www.ph4.org/b4_index.php?k=bibles&q=mybible) 
+- [Zefania XML Bibles](https://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/) /| [Alternate](https://www.ph4.org/b4_mobi.php?q=zefania)
 
 ## Fonts
 
