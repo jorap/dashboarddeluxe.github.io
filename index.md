@@ -101,7 +101,7 @@ title: Dashboard Deluxe
 
 - [NY Times Best Sellers](http://nytimes.com/books/best-sellers/advice-how-to-and-miscellaneous/)
 - [Amazon Best Sellers](http://amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_unv_b_1_12290_1)
-- [Library Genesis](http://gen.lib.rus.ec/)
+- [Library Genesis](http://libgen.io/) \| [Alternate 1](http://gen.lib.rus.ec/) \| [Alternate 2](http://libgen.pw/)
 - [Z Library](https://b-ok.org/)
 - [Booksee](http://en.booksee.org/)
 - [BookFI](http://en.bookfi.net/)
