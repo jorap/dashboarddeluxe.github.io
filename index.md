@@ -67,6 +67,7 @@ title: Dashboard Deluxe
 - [Drupal Modules: The 1%](http://gogrow.org/tutorials)
 - [Wordpress Planet](http://planet.wordpress.org)
 - [Programming Notes for Professionals](http://goalkicker.com/)
+- [Hugo](https://gohugo.io/) \| [Bootstrap Themes](https://themes.gohugo.io/tags/bootstrap/)
 - [Backdrop CMS](http://backdropcms.org) \| [Roadmap](http://backdropcms.org/roadmap)
 - [Grav](http://getgrav.org/)
 - [PHP Download](http://php-download.com/)
