@@ -101,6 +101,7 @@ title: Dashboard Deluxe
 
 ## Books
 
+- [Goodreads](https://www.goodreads.com/) \| [Recommendations](https://www.goodreads.com/recommendations)
 - [NY Times Best Sellers](http://nytimes.com/books/best-sellers/advice-how-to-and-miscellaneous/)
 - [Amazon Best Sellers](http://amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_unv_b_1_12290_1)
 - [Library Genesis](http://libgen.io/) \| [Alternate 1](http://gen.lib.rus.ec/) \| [Alternate 2](http://libgen.pw/)
