@@ -13,7 +13,7 @@ title: Dashboard Deluxe
 - [WhatsApp](https://web.whatsapp.com/) \| [Telegram](https://web.telegram.org/)
 
 ## Sports
-- [ESPN](http://global.espn.com/?src=com) \| [NBA](http://espn.com/nba) \| [Standings](http://www.espn.com/nba/standings) \| [Spurs](http://www.espn.com/nba/team/_/name/sa/san-antonio-spurs)
+- [ESPN](http://global.espn.com/?src=com) \| [NBA](http://espn.com/nba) \| [Scores](http://www.espn.com/nba/scoreboard) \| [Standings](http://www.espn.com/nba/standings) \| [Spurs](http://www.espn.com/nba/team/_/name/sa/san-antonio-spurs)
 - [HoopsHype NBA Rumors](http://hoopshype.com/rumors) \| [Spurs](http://hoopshype.com/team/san-antonio-spurs/)
 - [Y! NBA Fantasy](http://sports.yahoo.com/dailyfantasy) \| [Upcoming](http://sports.yahoo.com/dailyfantasy/contests/upcoming) \| [Live](http://sports.yahoo.com/dailyfantasy/contests/live) \| [Create Contest](http://sports.yahoo.com/dailyfantasy/contest/create) \| [Live Score](http://sports.yahoo.com/dailyfantasy/research/live)
 - [Linestar Y! Fantasy NBA](http://www.linestarapp.com/DailyDashboard/Sport/NBA/Site/Yahoo) \| [Live Score](http://www.linestarapp.com/LiveScoring/Sport/NBA/Site/Yahoo) \| [Perfect Lineup](http://www.linestarapp.com/Perfect/Sport/NBA/Site/Yahoo)
