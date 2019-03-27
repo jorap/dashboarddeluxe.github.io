@@ -105,6 +105,7 @@ title: Dashboard Deluxe
 - [ForexFactory Calendar](http://forexfactory.com/calendar.php)
 - [MyFXBook Dashboard](http://myfxbook.com/dashboard) \| [EA Wizard](https://www.myfxbook.com/en/help/connect-metatrader-ea)
 - [Investing.com Economic Calendar](http://investing.com/economic-calendar/)
+- [TradingView](https://www.tradingview.com/) \| [KY](https://www.tradingview.com/u/KarYong/)
 - [SPFX Manual](http://nobodytrader.com/your-first-trading-account/)
 - [Telegram](http://web.telegram.org)
 - [AlphaPlay](http://www.alphaplay.com.sg/)
