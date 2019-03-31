@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dashboard Deluxe
+title: Dashboard Deluxe - Pogi ni Ton
 ---
 
 - [Google](http://google.com) \| [Gmail](http://gmail.com) \| [News](http://news.google.com/?hl=en-PH&gl=PH&ceid=PH:en) \|  [Keep](http://keep.google.com/) \| [Calendar](http://calendar.google.com) \| [Drive](http://drive.google.com) \| [Photos](http://photos.google.com) \| [YouTube](https://www.youtube.com/feed/subscriptions)
