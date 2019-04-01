@@ -5,6 +5,7 @@ title: Dashboard Deluxe
 <div class="container">
   <div class="row">
     <div class="col">
+
 - [Google](http://google.com) \| [Gmail](http://gmail.com) \| [News](http://news.google.com/?hl=en-PH&gl=PH&ceid=PH:en) \|  [Keep](http://keep.google.com/) \| [Calendar](http://calendar.google.com) \| [Drive](http://drive.google.com) \| [Photos](http://photos.google.com) \| [YouTube](https://www.youtube.com/feed/subscriptions)
 - [Yahoo](http://mail.yahoo.com) \|  [Mail](http://mail.yahoo.com) \| [Weather](http://yahoo.com/news/weather/philippines/pasig/pasig-1187115)
 - [Samsung Seller Office](http://seller.samsungapps.com) \| [Sales Summary](http://seller.samsungapps.com/accounting/accountingList.as) \| [Buyer Comments](http://seller.samsungapps.com/comment/getCommentList.as) \| [Coupons](http://seller.samsungapps.com/product/promotion/promotioncoupon.as)
@@ -146,7 +147,8 @@ title: Dashboard Deluxe
 
 </div>
 
- <div class="col">
+<div class="col">
+
 - [Google](http://google.com) \| [Gmail](http://gmail.com) \| [News](http://news.google.com/?hl=en-PH&gl=PH&ceid=PH:en) \|  [Keep](http://keep.google.com/) \| [Calendar](http://calendar.google.com) \| [Drive](http://drive.google.com) \| [Photos](http://photos.google.com) \| [YouTube](https://www.youtube.com/feed/subscriptions)
 - [Yahoo](http://mail.yahoo.com) \|  [Mail](http://mail.yahoo.com) \| [Weather](http://yahoo.com/news/weather/philippines/pasig/pasig-1187115)
 - [Samsung Seller Office](http://seller.samsungapps.com) \| [Sales Summary](http://seller.samsungapps.com/accounting/accountingList.as) \| [Buyer Comments](http://seller.samsungapps.com/comment/getCommentList.as) \| [Coupons](http://seller.samsungapps.com/product/promotion/promotioncoupon.as)
