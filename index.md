@@ -4,33 +4,33 @@ title: Dashboard Deluxe
 ---
 
 <ul>
-<li><a href="http://google.com">Google</a> \| <a href="http://gmail.com">Gmail</a> \| <a href="http://news.google.com/?hl=en-PH&amp;gl=PH&amp;ceid=PH:en">News</a> \|  <a href="http://keep.google.com/">Keep</a> \| <a href="http://calendar.google.com">Calendar</a> \| <a href="http://drive.google.com">Drive</a> \| <a href="http://photos.google.com">Photos</a> \| <a href="https://www.youtube.com/feed/subscriptions">YouTube</a></li>
+<li><a href="http://google.com">Google</a> | <a href="http://gmail.com">Gmail</a> | <a href="http://news.google.com/?hl=en-PH&amp;gl=PH&amp;ceid=PH:en">News</a> |  <a href="http://keep.google.com/">Keep</a> | <a href="http://calendar.google.com">Calendar</a> | <a href="http://drive.google.com">Drive</a> | <a href="http://photos.google.com">Photos</a> | <a href="https://www.youtube.com/feed/subscriptions">YouTube</a></li>
 
-<li><a href="http://mail.yahoo.com">Yahoo</a> \|  <a href="http://mail.yahoo.com">Mail</a> \| <a href="http://yahoo.com/news/weather/philippines/pasig/pasig-1187115">Weather</a></li>
+<li><a href="http://mail.yahoo.com">Yahoo</a> |  <a href="http://mail.yahoo.com">Mail</a> | <a href="http://yahoo.com/news/weather/philippines/pasig/pasig-1187115">Weather</a></li>
 
-<li><a href="http://seller.samsungapps.com">Samsung Seller Office</a> \| <a href="http://seller.samsungapps.com/accounting/accountingList.as">Sales Summary</a> \| <a href="http://seller.samsungapps.com/comment/getCommentList.as">Buyer Comments</a> \| <a href="http://seller.samsungapps.com/product/promotion/promotioncoupon.as">Coupons</a></li>
+<li><a href="http://seller.samsungapps.com">Samsung Seller Office</a> | <a href="http://seller.samsungapps.com/accounting/accountingList.as">Sales Summary</a> | <a href="http://seller.samsungapps.com/comment/getCommentList.as">Buyer Comments</a> | <a href="http://seller.samsungapps.com/product/promotion/promotioncoupon.as">Coupons</a></li>
 
-<li><a href="http://github.com">Github</a> \| <a href="http://github.com/dashboarddeluxe/">Dashboard Deluxe</a> \| <a href="http://github.com/dashboarddeluxe/dashboarddeluxe.github.io">Dashboard Deluxe Site</a></li>
+<li><a href="http://github.com">Github</a> | <a href="http://github.com/dashboarddeluxe/">Dashboard Deluxe</a> | <a href="http://github.com/dashboarddeluxe/dashboarddeluxe.github.io">Dashboard Deluxe Site</a></li>
 
-<li><a href="http://prose.io">Prose</a> \| <a href="http://prose.io/#dashboarddeluxe/dashboarddeluxe.github.io/edit/master/index.md">Edit Dashboard Deluxe</a></li>
+<li><a href="http://prose.io">Prose</a> | <a href="http://prose.io/#dashboarddeluxe/dashboarddeluxe.github.io/edit/master/index.md">Edit Dashboard Deluxe</a></li>
 
-<li><a href="http://app.netlify.com/">Netlify</a> \| <a href="http://dashboarddeluxe.netlify.com">Dashboard Deluxe</a></li>
+<li><a href="http://app.netlify.com/">Netlify</a> | <a href="http://dashboarddeluxe.netlify.com">Dashboard Deluxe</a></li>
 
-<li><a href="https://www.ccleaner.com/ccleaner/download/standard">CCleaner Standard</a> \| <a href="http://download.glarysoft.com/guportable.zip">Glary Utilies Portable</a></li>
+<li><a href="https://www.ccleaner.com/ccleaner/download/standard">CCleaner Standard</a> | <a href="http://download.glarysoft.com/guportable.zip">Glary Utilies Portable</a></li>
 
-<li><a href="https://web.whatsapp.com/">WhatsApp</a> \| <a href="https://web.telegram.org/">Telegram</a></li>
+<li><a href="https://web.whatsapp.com/">WhatsApp</a> | <a href="https://web.telegram.org/">Telegram</a></li>
 </ul>
 
 <h2 id="sports">Sports</h2>
 
 <ul>
-<li><a href="http://global.espn.com/?src=com">ESPN</a> \| <a href="http://espn.com/nba">NBA</a> \| <a href="http://www.espn.com/nba/scoreboard">Scores</a> \| <a href="http://www.espn.com/nba/standings">Standings</a> \| <a href="http://www.espn.com/nba/team/_/name/sa/san-antonio-spurs">Spurs</a></li>
+<li><a href="http://global.espn.com/?src=com">ESPN</a> | <a href="http://espn.com/nba">NBA</a> | <a href="http://www.espn.com/nba/scoreboard">Scores</a> | <a href="http://www.espn.com/nba/standings">Standings</a> | <a href="http://www.espn.com/nba/team/_/name/sa/san-antonio-spurs">Spurs</a></li>
 
-<li><a href="http://hoopshype.com/rumors">HoopsHype NBA Rumors</a> \| <a href="http://hoopshype.com/team/san-antonio-spurs/">Spurs</a></li>
+<li><a href="http://hoopshype.com/rumors">HoopsHype NBA Rumors</a> | <a href="http://hoopshype.com/team/san-antonio-spurs/">Spurs</a></li>
 
-<li><a href="http://sports.yahoo.com/dailyfantasy">Y! NBA Fantasy</a> \| <a href="http://sports.yahoo.com/dailyfantasy/contests/upcoming">Upcoming</a> \| <a href="http://sports.yahoo.com/dailyfantasy/contests/live">Live</a> \| <a href="http://sports.yahoo.com/dailyfantasy/contest/create">Create Contest</a> \| <a href="http://sports.yahoo.com/dailyfantasy/research/live">Live Score</a></li>
+<li><a href="http://sports.yahoo.com/dailyfantasy">Y! NBA Fantasy</a> | <a href="http://sports.yahoo.com/dailyfantasy/contests/upcoming">Upcoming</a> | <a href="http://sports.yahoo.com/dailyfantasy/contests/live">Live</a> | <a href="http://sports.yahoo.com/dailyfantasy/contest/create">Create Contest</a> | <a href="http://sports.yahoo.com/dailyfantasy/research/live">Live Score</a></li>
 
-<li><a href="http://www.linestarapp.com/DailyDashboard/Sport/NBA/Site/Yahoo">Linestar Y! Fantasy NBA</a> \| <a href="http://www.linestarapp.com/LiveScoring/Sport/NBA/Site/Yahoo">Live Score</a> \| <a href="http://www.linestarapp.com/Perfect/Sport/NBA/Site/Yahoo">Perfect Lineup</a></li>
+<li><a href="http://www.linestarapp.com/DailyDashboard/Sport/NBA/Site/Yahoo">Linestar Y! Fantasy NBA</a> | <a href="http://www.linestarapp.com/LiveScoring/Sport/NBA/Site/Yahoo">Live Score</a> | <a href="http://www.linestarapp.com/Perfect/Sport/NBA/Site/Yahoo">Perfect Lineup</a></li>
 
 <li><a href="http://dailyfantasynerd.com/optimizer/yahoo/nba">DailyFantasyNerd Optimizer</a></li>
 
@@ -40,7 +40,7 @@ title: Dashboard Deluxe
 
 <li><a href="https://airalamo.com/">Air Alamo</a></li>
 
-<li><a href="http://fivethirtyeight.com/sports/">538 Sports</a> \| <a href="http://fivethirtyeight.com/tag/nba/">NBA</a></li>
+<li><a href="http://fivethirtyeight.com/sports/">538 Sports</a> | <a href="http://fivethirtyeight.com/tag/nba/">NBA</a></li>
 
 <li><a href="http://abc.net.au/news/sport/">ABC Sport</a></li>
 
@@ -50,7 +50,7 @@ title: Dashboard Deluxe
 <h2 id="boardgames">Board Games</h2>
 
 <ul>
-<li><a href="http://boardgamegeek.com">BoardGameGeek</a> \| <a href="http://boardgamegeek.com/subscriptions">Subscriptions</a> \| <a href="https://boardgamegeek.com/search/boardgame?sort=rank&amp;advsearch=1&amp;q=&amp;include%5Bdesignerid%5D=&amp;include%5Bpublisherid%5D=&amp;geekitemname=&amp;range%5Byearpublished%5D%5Bmin%5D=&amp;range%5Byearpublished%5D%5Bmax%5D=&amp;range%5Bminage%5D%5Bmax%5D=&amp;range%5Bnumvoters%5D%5Bmin%5D=&amp;range%5Bnumweights%5D%5Bmin%5D=&amp;range%5Bminplayers%5D%5Bmax%5D=&amp;range%5Bmaxplayers%5D%5Bmin%5D=&amp;range%5Bleastplaytime%5D%5Bmin%5D=&amp;range%5Bplaytime%5D%5Bmax%5D=&amp;floatrange%5Bavgrating%5D%5Bmin%5D=&amp;floatrange%5Bavgrating%5D%5Bmax%5D=&amp;floatrange%5Bavgweight%5D%5Bmin%5D=1&amp;floatrange%5Bavgweight%5D%5Bmax%5D=2&amp;colfiltertype=&amp;searchuser=jorap&amp;playerrangetype=normal&amp;B1=Submit">Light Games</a> \| <a href="https://boardgamegeek.com/search/boardgame?sort=rank&amp;advsearch=1&amp;q=&amp;include%5Bdesignerid%5D=&amp;include%5Bpublisherid%5D=&amp;geekitemname=&amp;range%5Byearpublished%5D%5Bmin%5D=&amp;range%5Byearpublished%5D%5Bmax%5D=&amp;range%5Bminage%5D%5Bmax%5D=&amp;range%5Bnumvoters%5D%5Bmin%5D=&amp;range%5Bnumweights%5D%5Bmin%5D=&amp;range%5Bminplayers%5D%5Bmax%5D=&amp;range%5Bmaxplayers%5D%5Bmin%5D=&amp;range%5Bleastplaytime%5D%5Bmin%5D=&amp;range%5Bplaytime%5D%5Bmax%5D=30&amp;floatrange%5Bavgrating%5D%5Bmin%5D=&amp;floatrange%5Bavgrating%5D%5Bmax%5D=&amp;floatrange%5Bavgweight%5D%5Bmin%5D=1&amp;floatrange%5Bavgweight%5D%5Bmax%5D=2&amp;colfiltertype=&amp;searchuser=&amp;playerrangetype=normal&amp;B1=Submit">30 Minutes</a> \| <a href="https://boardgamegeek.com/search/boardgame?sort=rank&amp;advsearch=1&amp;q=&amp;include%5Bdesignerid%5D=&amp;include%5Bpublisherid%5D=&amp;geekitemname=&amp;range%5Byearpublished%5D%5Bmin%5D=&amp;range%5Byearpublished%5D%5Bmax%5D=&amp;range%5Bminage%5D%5Bmax%5D=&amp;range%5Bnumvoters%5D%5Bmin%5D=&amp;range%5Bnumweights%5D%5Bmin%5D=&amp;range%5Bminplayers%5D%5Bmax%5D=&amp;range%5Bmaxplayers%5D%5Bmin%5D=&amp;range%5Bleastplaytime%5D%5Bmin%5D=&amp;range%5Bplaytime%5D%5Bmax%5D=15&amp;floatrange%5Bavgrating%5D%5Bmin%5D=&amp;floatrange%5Bavgrating%5D%5Bmax%5D=&amp;floatrange%5Bavgweight%5D%5Bmin%5D=1&amp;floatrange%5Bavgweight%5D%5Bmax%5D=2&amp;colfiltertype=&amp;searchuser=&amp;playerrangetype=normal&amp;B1=Submit">15 Minutes</a> \| <a href="https://boardgamegeek.com/search/boardgame?sort=rank&amp;advsearch=1&amp;q=&amp;include%5Bdesignerid%5D=&amp;include%5Bpublisherid%5D=&amp;geekitemname=&amp;range%5Byearpublished%5D%5Bmin%5D=&amp;range%5Byearpublished%5D%5Bmax%5D=&amp;range%5Bminage%5D%5Bmax%5D=&amp;range%5Bnumvoters%5D%5Bmin%5D=&amp;range%5Bnumweights%5D%5Bmin%5D=&amp;range%5Bminplayers%5D%5Bmax%5D=2&amp;range%5Bmaxplayers%5D%5Bmin%5D=2&amp;range%5Bleastplaytime%5D%5Bmin%5D=&amp;range%5Bplaytime%5D%5Bmax%5D=&amp;floatrange%5Bavgrating%5D%5Bmin%5D=&amp;floatrange%5Bavgrating%5D%5Bmax%5D=&amp;floatrange%5Bavgweight%5D%5Bmin%5D=1&amp;floatrange%5Bavgweight%5D%5Bmax%5D=2&amp;colfiltertype=&amp;searchuser=&amp;playerrangetype=exclusive&amp;B1=Submit">2 Player</a> \| <a href="https://boardgamegeek.com/search/boardgame?sort=rank&amp;advsearch=1&amp;q=&amp;include%5Bdesignerid%5D=&amp;include%5Bpublisherid%5D=&amp;geekitemname=&amp;range%5Byearpublished%5D%5Bmin%5D=&amp;range%5Byearpublished%5D%5Bmax%5D=&amp;range%5Bminage%5D%5Bmax%5D=&amp;range%5Bnumvoters%5D%5Bmin%5D=&amp;range%5Bnumweights%5D%5Bmin%5D=&amp;range%5Bminplayers%5D%5Bmax%5D=2&amp;range%5Bmaxplayers%5D%5Bmin%5D=3&amp;range%5Bleastplaytime%5D%5Bmin%5D=&amp;range%5Bplaytime%5D%5Bmax%5D=&amp;floatrange%5Bavgrating%5D%5Bmin%5D=&amp;floatrange%5Bavgrating%5D%5Bmax%5D=&amp;floatrange%5Bavgweight%5D%5Bmin%5D=1&amp;floatrange%5Bavgweight%5D%5Bmax%5D=2&amp;colfiltertype=&amp;searchuser=&amp;playerrangetype=normal&amp;B1=Submit">Versatile</a></li>
+<li><a href="http://boardgamegeek.com">BoardGameGeek</a> | <a href="http://boardgamegeek.com/subscriptions">Subscriptions</a> | <a href="https://boardgamegeek.com/search/boardgame?sort=rank&amp;advsearch=1&amp;q=&amp;include%5Bdesignerid%5D=&amp;include%5Bpublisherid%5D=&amp;geekitemname=&amp;range%5Byearpublished%5D%5Bmin%5D=&amp;range%5Byearpublished%5D%5Bmax%5D=&amp;range%5Bminage%5D%5Bmax%5D=&amp;range%5Bnumvoters%5D%5Bmin%5D=&amp;range%5Bnumweights%5D%5Bmin%5D=&amp;range%5Bminplayers%5D%5Bmax%5D=&amp;range%5Bmaxplayers%5D%5Bmin%5D=&amp;range%5Bleastplaytime%5D%5Bmin%5D=&amp;range%5Bplaytime%5D%5Bmax%5D=&amp;floatrange%5Bavgrating%5D%5Bmin%5D=&amp;floatrange%5Bavgrating%5D%5Bmax%5D=&amp;floatrange%5Bavgweight%5D%5Bmin%5D=1&amp;floatrange%5Bavgweight%5D%5Bmax%5D=2&amp;colfiltertype=&amp;searchuser=jorap&amp;playerrangetype=normal&amp;B1=Submit">Light Games</a> | <a href="https://boardgamegeek.com/search/boardgame?sort=rank&amp;advsearch=1&amp;q=&amp;include%5Bdesignerid%5D=&amp;include%5Bpublisherid%5D=&amp;geekitemname=&amp;range%5Byearpublished%5D%5Bmin%5D=&amp;range%5Byearpublished%5D%5Bmax%5D=&amp;range%5Bminage%5D%5Bmax%5D=&amp;range%5Bnumvoters%5D%5Bmin%5D=&amp;range%5Bnumweights%5D%5Bmin%5D=&amp;range%5Bminplayers%5D%5Bmax%5D=&amp;range%5Bmaxplayers%5D%5Bmin%5D=&amp;range%5Bleastplaytime%5D%5Bmin%5D=&amp;range%5Bplaytime%5D%5Bmax%5D=30&amp;floatrange%5Bavgrating%5D%5Bmin%5D=&amp;floatrange%5Bavgrating%5D%5Bmax%5D=&amp;floatrange%5Bavgweight%5D%5Bmin%5D=1&amp;floatrange%5Bavgweight%5D%5Bmax%5D=2&amp;colfiltertype=&amp;searchuser=&amp;playerrangetype=normal&amp;B1=Submit">30 Minutes</a> | <a href="https://boardgamegeek.com/search/boardgame?sort=rank&amp;advsearch=1&amp;q=&amp;include%5Bdesignerid%5D=&amp;include%5Bpublisherid%5D=&amp;geekitemname=&amp;range%5Byearpublished%5D%5Bmin%5D=&amp;range%5Byearpublished%5D%5Bmax%5D=&amp;range%5Bminage%5D%5Bmax%5D=&amp;range%5Bnumvoters%5D%5Bmin%5D=&amp;range%5Bnumweights%5D%5Bmin%5D=&amp;range%5Bminplayers%5D%5Bmax%5D=&amp;range%5Bmaxplayers%5D%5Bmin%5D=&amp;range%5Bleastplaytime%5D%5Bmin%5D=&amp;range%5Bplaytime%5D%5Bmax%5D=15&amp;floatrange%5Bavgrating%5D%5Bmin%5D=&amp;floatrange%5Bavgrating%5D%5Bmax%5D=&amp;floatrange%5Bavgweight%5D%5Bmin%5D=1&amp;floatrange%5Bavgweight%5D%5Bmax%5D=2&amp;colfiltertype=&amp;searchuser=&amp;playerrangetype=normal&amp;B1=Submit">15 Minutes</a> | <a href="https://boardgamegeek.com/search/boardgame?sort=rank&amp;advsearch=1&amp;q=&amp;include%5Bdesignerid%5D=&amp;include%5Bpublisherid%5D=&amp;geekitemname=&amp;range%5Byearpublished%5D%5Bmin%5D=&amp;range%5Byearpublished%5D%5Bmax%5D=&amp;range%5Bminage%5D%5Bmax%5D=&amp;range%5Bnumvoters%5D%5Bmin%5D=&amp;range%5Bnumweights%5D%5Bmin%5D=&amp;range%5Bminplayers%5D%5Bmax%5D=2&amp;range%5Bmaxplayers%5D%5Bmin%5D=2&amp;range%5Bleastplaytime%5D%5Bmin%5D=&amp;range%5Bplaytime%5D%5Bmax%5D=&amp;floatrange%5Bavgrating%5D%5Bmin%5D=&amp;floatrange%5Bavgrating%5D%5Bmax%5D=&amp;floatrange%5Bavgweight%5D%5Bmin%5D=1&amp;floatrange%5Bavgweight%5D%5Bmax%5D=2&amp;colfiltertype=&amp;searchuser=&amp;playerrangetype=exclusive&amp;B1=Submit">2 Player</a> | <a href="https://boardgamegeek.com/search/boardgame?sort=rank&amp;advsearch=1&amp;q=&amp;include%5Bdesignerid%5D=&amp;include%5Bpublisherid%5D=&amp;geekitemname=&amp;range%5Byearpublished%5D%5Bmin%5D=&amp;range%5Byearpublished%5D%5Bmax%5D=&amp;range%5Bminage%5D%5Bmax%5D=&amp;range%5Bnumvoters%5D%5Bmin%5D=&amp;range%5Bnumweights%5D%5Bmin%5D=&amp;range%5Bminplayers%5D%5Bmax%5D=2&amp;range%5Bmaxplayers%5D%5Bmin%5D=3&amp;range%5Bleastplaytime%5D%5Bmin%5D=&amp;range%5Bplaytime%5D%5Bmax%5D=&amp;floatrange%5Bavgrating%5D%5Bmin%5D=&amp;floatrange%5Bavgrating%5D%5Bmax%5D=&amp;floatrange%5Bavgweight%5D%5Bmin%5D=1&amp;floatrange%5Bavgweight%5D%5Bmax%5D=2&amp;colfiltertype=&amp;searchuser=&amp;playerrangetype=normal&amp;B1=Submit">Versatile</a></li>
 
 <li><a href="http://www.boardgamer.ru/forum/index.php?action=unread">PNP Board Games</a></li>
 
@@ -158,9 +158,9 @@ title: Dashboard Deluxe
 
 <li><a href="http://goalkicker.com/">Programming Notes for Professionals</a></li>
 
-<li><a href="https://gohugo.io/">Hugo</a> \| <a href="https://themes.gohugo.io/tags/bootstrap/">Bootstrap Themes</a></li>
+<li><a href="https://gohugo.io/">Hugo</a> | <a href="https://themes.gohugo.io/tags/bootstrap/">Bootstrap Themes</a></li>
 
-<li><a href="http://backdropcms.org">Backdrop CMS</a> \| <a href="http://backdropcms.org/roadmap">Roadmap</a></li>
+<li><a href="http://backdropcms.org">Backdrop CMS</a> | <a href="http://backdropcms.org/roadmap">Roadmap</a></li>
 
 <li><a href="http://getgrav.org/">Grav</a></li>
 
@@ -202,11 +202,11 @@ title: Dashboard Deluxe
 <ul>
 <li><a href="http://forexfactory.com/calendar.php">ForexFactory Calendar</a></li>
 
-<li><a href="http://myfxbook.com/dashboard">MyFXBook Dashboard</a> \| <a href="https://www.myfxbook.com/en/help/connect-metatrader-ea">EA Wizard</a></li>
+<li><a href="http://myfxbook.com/dashboard">MyFXBook Dashboard</a> | <a href="https://www.myfxbook.com/en/help/connect-metatrader-ea">EA Wizard</a></li>
 
 <li><a href="http://investing.com/economic-calendar/">Investing.com Economic Calendar</a></li>
 
-<li><a href="https://www.tradingview.com/">TradingView</a> \| <a href="https://www.tradingview.com/u/KarYong/">KY</a></li>
+<li><a href="https://www.tradingview.com/">TradingView</a> | <a href="https://www.tradingview.com/u/KarYong/">KY</a></li>
 
 <li><a href="http://nobodytrader.com/your-first-trading-account/">SPFX Manual</a></li>
 
@@ -222,13 +222,13 @@ title: Dashboard Deluxe
 <h2 id="books">Books</h2>
 
 <ul>
-<li><a href="https://www.goodreads.com/">Goodreads</a> \| <a href="https://www.goodreads.com/recommendations">Recommendations</a></li>
+<li><a href="https://www.goodreads.com/">Goodreads</a> | <a href="https://www.goodreads.com/recommendations">Recommendations</a></li>
 
 <li><a href="http://nytimes.com/books/best-sellers/advice-how-to-and-miscellaneous/">NY Times Best Sellers</a></li>
 
 <li><a href="http://amazon.com/best-sellers-books-Amazon/zgbs/books/ref=zg_bs_unv_b_1_12290_1">Amazon Best Sellers</a></li>
 
-<li><a href="http://libgen.io/">Library Genesis</a> \| <a href="http://gen.lib.rus.ec/">Alternate 1</a> \| <a href="http://libgen.pw/">Alternate 2</a></li>
+<li><a href="http://libgen.io/">Library Genesis</a> | <a href="http://gen.lib.rus.ec/">Alternate 1</a> | <a href="http://libgen.pw/">Alternate 2</a></li>
 
 <li><a href="https://b-ok.org/">Z Library</a></li>
 
@@ -242,9 +242,9 @@ title: Dashboard Deluxe
 
 <li><a href="http://www.cheltenhamcourseware.com/">Cheltenham Courseware</a></li>
 
-<li><a href="https://mybible.zone/index-eng.php">MyBible</a> \| <a href="https://www.ph4.org/b4_index.php?k=bibles&amp;q=mybible">Bible Downloads</a> </li>
+<li><a href="https://mybible.zone/index-eng.php">MyBible</a> | <a href="https://www.ph4.org/b4_index.php?k=bibles&amp;q=mybible">Bible Downloads</a> </li>
 
-<li><a href="https://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/">Zefania XML Bibles</a> \| <a href="https://www.ph4.org/b4_mobi.php?q=zefania">Alternate</a></li>
+<li><a href="https://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/">Zefania XML Bibles</a> | <a href="https://www.ph4.org/b4_mobi.php?q=zefania">Alternate</a></li>
 </ul>
 
 <h2 id="fonts">Fonts</h2>
@@ -268,5 +268,5 @@ title: Dashboard Deluxe
 <ul>
 <li><a href="http://lazada.com.ph/">Lazada</a></li>
 
-<li><a href="http://shopee.ph/">Shopee</a> \| <a href="http://shopee.ph/user/purchase">My Purchase</a></li>
+<li><a href="http://shopee.ph/">Shopee</a> | <a href="http://shopee.ph/user/purchase">My Purchase</a></li>
 </ul>
