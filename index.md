@@ -117,7 +117,7 @@ title: Dashboard Deluxe
         <li><a href="http://forexfactory.com/calendar.php">ForexFactory Calendar</a></li>
         <li><a href="http://myfxbook.com/dashboard">MyFXBook Dashboard</a> | <a href="https://www.myfxbook.com/en/help/connect-metatrader-ea">EA Wizard</a></li>
         <li><a href="http://investing.com/economic-calendar/">Investing.com Economic Calendar</a></li>
-        <li><a href="https://www.tradingview.com/">TradingView</a> | <a href="https://www.tradingview.com/u/KarYong/">KY</a></li>
+        <li><a href="https://www.tradingview.com/">TradingView</a> | <a href="https://www.tradingview.com/chart">Chart</a> | <a href="https://www.tradingview.com/u/KarYong/">KY</a></li>
         <li><a href="http://nobodytrader.com/your-first-trading-account/">SPFX Manual</a></li>
         <li><a href="http://web.telegram.org">Telegram</a></li>
         <li><a href="http://www.alphaplay.com.sg/">AlphaPlay</a></li>
