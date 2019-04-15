@@ -94,9 +94,6 @@ title: Dashboard Deluxe
         <li><a href="http://backdropcms.org">Backdrop CMS</a> | <a href="http://backdropcms.org/roadmap">Roadmap</a></li>
         <li><a href="http://getgrav.org/">Grav</a></li>
         <li><a href="http://php-download.com/">PHP Download</a></li>
-        <li><a href="http://d7.wat-a-wat.com/user_account/login">Drupal 7 - wat-a-wat.com</a></li>
-        <li><a href="http://d8.wat-a-wat.com/user_account/login">Drupal 8 - wat-a-wat.com</a></li>
-        <li><a href="http://grav.wat-a-wat.com/admin">GRAV - wat-a-wat.com</a></li>
         <li><a href="http://dashboard.pantheon.io">Pantheon Dashboard</a></li>
         <li><a href="http://dev-drpl-8.pantheonsite.io">Drupal 8 - Pantheon</a></li>
         <li><a href="http://dev-wp4.pantheonsite.io/wp-admin/">Wordpress 5 - Pantheon</a></li>
