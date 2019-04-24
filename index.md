@@ -110,7 +110,7 @@ title: Dashboard Deluxe
       </ul>
       <h2 id="forex">Forex</h2>
       <ul>
-        <li><a href="http://forexfactory.com/calendar.php">ForexFactory Calendar</a></li>
+        <li><a href="http://forexfactory.com">ForexFactory</a> | <a href="http://forexfactory.com/calendar.php">Calendar</a></li>
         <li><a href="http://myfxbook.com/dashboard">MyFXBook Dashboard</a> | <a href="https://www.myfxbook.com/en/help/connect-metatrader-ea">EA Wizard</a></li>
         <li><a href="http://investing.com/economic-calendar/">Investing.com Economic Calendar</a></li>
         <li><a href="https://www.tradingview.com/">TradingView</a> | <a href="https://www.tradingview.com/chart">Chart</a> | <a href="https://www.tradingview.com/u/KarYong/">KY</a></li>
