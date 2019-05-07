@@ -92,7 +92,7 @@ title: Dashboard Deluxe
         <li><a href="http://goalkicker.com/">Programming Notes for Professionals</a></li>
         <li><a href="https://gohugo.io/">Hugo</a> | <a href="https://themes.gohugo.io/tags/bootstrap/">Bootstrap Themes</a></li>
         <li><a href="http://backdropcms.org">Backdrop CMS</a> | <a href="http://backdropcms.org/roadmap">Roadmap</a></li>
-        <li><a href="http://getgrav.org/">Grav</a></li>
+        <li><a href="http://getgrav.org/">Grav</a> | <a href="https://github.com/getgrav/grav/releases">Releases</a></li>
         <li><a href="http://php-download.com/">PHP Download</a></li>
         <li><a href="http://dashboard.pantheon.io">Pantheon Dashboard</a></li>
         <li><a href="http://dev-drpl-8.pantheonsite.io">Drupal 8 - Pantheon</a></li>
