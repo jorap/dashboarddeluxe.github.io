@@ -97,6 +97,8 @@ title: Dashboard Deluxe
         <li><a href="http://dashboard.pantheon.io">Pantheon Dashboard</a></li>
         <li><a href="http://dev-drpl-8.pantheonsite.io">Drupal 8 - Pantheon</a></li>
         <li><a href="http://dev-wp4.pantheonsite.io/wp-admin/">Wordpress 5 - Pantheon</a></li>
+        <li><a href="https://learn.freecodecamp.org/">Free Code Camp</a></li>
+        <li><a href="https://scrimba.com/">Scrimba</a></li>
       </ul>
       <h2 id="weatherseismology">Weather / Seismology</h2>
       <ul>
