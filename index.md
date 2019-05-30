@@ -46,6 +46,7 @@ title: Dashboard Deluxe
         <li><a href="http://templatemaker.nl/index.php?template=matchbox&amp;source=dielines&amp;lang=en">Tray Template</a></li>
         <li><a href="http://boardvsgame.com">Board vs Game</a></li>
         <li><a href="http://www.gaminglib.com/collections/all?sort_by=created-descending">GamingLib</a></li>
+        <li><a href="https://geekboxph.com/collections/new-arrival-1?sort_by=price-ascending">Geekbox PH</a></li>
         <li><a href="http://www.orderofgamers.com/games/">The Esoteric Order of Gamers</a></li>
       </ul>
       <h2 id="design">Design</h2>
