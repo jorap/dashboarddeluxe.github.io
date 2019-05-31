@@ -79,6 +79,7 @@ title: Dashboard Deluxe
         <li><a href="https://magdeleine.co/license/cc0/">Magdeleine CC0</a></li>
         <li><a href="http://getrefe.com/downloads/category/free/">Refe Free</a></li>
         <li><a href="https://images.superfamous.com/">SuperFamous Images</a></li>
+        <li><a href="https://www.designspiration.net/">Designspiration</a></li>
       </ul>
     </div>
     <div class="col">
