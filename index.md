@@ -42,7 +42,7 @@ title: Dashboard Deluxe
         <li><a href="http://dicetowernews.com">Dice Tower News</a></li>
         <li><a href="http://islaythedragon.com/category/game-reviews/">iSlaytheDragon Reviews</a></li>
         <li><a href="http://www.geeksundergrace.com/tabletop/">Geeks Under Grace</a></li>
-        <li><a href="http://meeplelikeus.co.uk/meeple-like-us-masterlist/">Meeple Like Us Master List</a></li>
+        <li><a href="http://meeplelikeus.co.uk/">Meeple Like Us Master List</a> | <a href="http://meeplelikeus.co.uk/meeple-like-us-masterlist/">Master List</a></li>
         <li><a href="http://templatemaker.nl/index.php?template=matchbox&amp;source=dielines&amp;lang=en">Tray Template</a></li>
         <li><a href="http://boardvsgame.com">Board vs Game</a></li>
         <li><a href="http://www.gaminglib.com/collections/all?sort_by=created-descending">GamingLib</a></li>
