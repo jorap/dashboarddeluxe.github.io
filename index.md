@@ -15,6 +15,7 @@ title: Dashboard Deluxe
         <li><a href="http://app.netlify.com/">Netlify</a> | <a href="http://dashboarddeluxe.netlify.com">Dashboard Deluxe</a></li>
         <li><a href="https://www.ccleaner.com/ccleaner/download/standard">CCleaner Standard</a> | <a href="http://download.glarysoft.com/guportable.zip">Glary Utilies Portable</a></li>
         <li><a href="https://www.microsoft.com/en-us/wdsi/definitions">Windows Defender Definitions</a></li>
+        <li><a href="https://www.av-comparatives.org/latest-tests/">AV Comparatives Latest Tests</a></li>
         <li><a href="https://web.whatsapp.com/">WhatsApp</a> | <a href="https://web.telegram.org/">Telegram</a></li>
         <li><a href="https://napchart.com/app">NapChart</a></li>
       </ul>
