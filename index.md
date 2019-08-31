@@ -11,6 +11,7 @@ title: Dashboard Deluxe
         <li><a href="http://mail.yahoo.com">Yahoo</a> |  <a href="http://mail.yahoo.com">Mail</a> | <a href="http://yahoo.com/news/weather/philippines/pasig/pasig-1187115">Weather</a></li>
         <li><a href="http://seller.samsungapps.com">Samsung Seller Office</a> | <a href="http://seller.samsungapps.com/accounting/accountingList.as">Sales Summary</a> | <a href="http://seller.samsungapps.com/comment/getCommentList.as">Buyer Comments</a> | <a href="http://seller.samsungapps.com/product/promotion/promotioncoupon.as">Coupons</a></li>
         <li><a href="https://facebook.com/">Facebook</a> | <a href="https://facebook.com/messages">Messenger</a> | <a href="http://mbasic.facebook.com">Basic</a></li>
+        <li><a href="https://www.youtube.com/">Youtube</a> | <a href="https://www.youtube.com/feed/subscriptions">Subscriptions</a></li>
         <li><a href="http://github.com">Github</a> | <a href="http://github.com/dashboarddeluxe/">Dashboard Deluxe</a> | <a href="http://github.com/dashboarddeluxe/dashboarddeluxe.github.io">Dashboard Deluxe Site</a></li>
         <li><a href="http://prose.io">Prose</a> | <a href="http://prose.io/#dashboarddeluxe/dashboarddeluxe.github.io/edit/master/index.md">Edit Dashboard Deluxe</a></li>
         <li><a href="http://app.netlify.com/">Netlify</a> | <a href="http://dashboarddeluxe.netlify.com">Dashboard Deluxe</a></li>
