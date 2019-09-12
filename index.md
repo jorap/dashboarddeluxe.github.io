@@ -89,6 +89,7 @@ title: Dashboard Deluxe
     <div class="col">
       <h2 id="development">Development</h2>
       <ul>
+        <li><a href="http://www.namesilo.com">Namesilo</a></li>
         <li><a href="http://www.laragon.org/">Laragon</a> | <a href="https://github.com/leokhoa/laragon/releases">Releases</a></li>
         <li><a href="https://www.apachefriends.org/download.html">XAMPP</a></li>
         <li><a href="http://drupal.org/">Drupal</a> | <a href="http://drupal.org/planet">Planet</a> | <a href="https://www.drupal.org/core/roadmap">Roadmap</a> | <a href="https://www.drupal.org/about/strategic-initiatives">Strategic Initiatives</a> | <a href="http://drupal.org/project/project_module?f%5B0%5D=&amp;f%5B1%5D=&amp;f%5B2%5D=&amp;f%5B3%5D=drupal_core%3A7234&amp;f%5B4%5D=sm_field_project_type%3Afull&amp;f%5B5%5D=&amp;text=&amp;solrsort=ds_project_latest_release+desc&amp;op=Search">Modules</a> | <a href="http://drupal.org/project/project_theme?f%5B0%5D=&amp;f%5B1%5D=&amp;f%5B2%5D=drupal_core%3A7234&amp;f%5B3%5D=sm_field_project_type%3Afull&amp;f%5B4%5D=&amp;text=&amp;solrsort=ds_project_latest_release+desc&amp;op=Search">Themes</a> | <a href="https://www.drupal.org/project/project_distribution?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=drupal_core%3A7234&f%5B3%5D=sm_field_project_type%3Afull&f%5B4%5D=&f%5B5%5D=&text=&solrsort=ds_project_latest_release+desc&op=Search">Distributions</a></li>
