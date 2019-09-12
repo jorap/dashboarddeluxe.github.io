@@ -89,6 +89,7 @@ title: Dashboard Deluxe
     <div class="col">
       <h2 id="development">Development</h2>
       <ul>
+        <li><a href="https://code.visualstudio.com/download">Visual Studio Code</a></li>
         <li><a href="http://www.namesilo.com">Namesilo</a></li>
         <li><a href="http://www.laragon.org/">Laragon</a> | <a href="https://github.com/leokhoa/laragon/releases">Releases</a></li>
         <li><a href="https://www.apachefriends.org/download.html">XAMPP</a></li>
