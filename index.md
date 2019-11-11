@@ -144,6 +144,7 @@ title: Dashboard Deluxe
         <li><a href="https://b-ok.org/">Z Library</a></li>
         <li><a href="http://en.booksee.org/">Booksee</a></li>
         <li><a href="http://en.bookfi.net/">BookFI</a></li>
+        <li><a href="http://mobilism.org/">Mobilism</a></li>
         <li><a href="http://wowebook.org">WOW ebook</a></li>
         <li><a href="http://www.christiandl.com/unread/">ChristianDL</a></li>
         <li><a href="http://www.cheltenhamcourseware.com/">Cheltenham Courseware</a></li>
