@@ -90,6 +90,7 @@ title: Dashboard Deluxe
       <h2 id="development">Development</h2>
       <ul>
         <li><a href="https://code.visualstudio.com/download">Visual Studio Code</a></li>
+        <li><a href="https://www.sublimetext.com/3">Sublime Text</a> | <a href="https://packagecontrol.io/browse/popular">Popular Packages</a></li>
         <li><a href="http://www.namesilo.com">Namesilo</a></li>
         <li><a href="https://www.whois.com/whois/">Whois Domain Lookup</a></li>
         <li><a href="http://www.laragon.org/">Laragon</a> | <a href="https://github.com/leokhoa/laragon/releases">Releases</a></li>
